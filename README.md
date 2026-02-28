@@ -198,8 +198,3 @@ STEP 3: LOAD
 
    ETL PIPELINE COMPLETED SUCCESSFULLY!
 ************************************************************
-```
-
-## Author
-
-Built as part of an ETL Workshop — Data Engineering Portfolio Project.
